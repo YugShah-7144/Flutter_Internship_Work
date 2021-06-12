@@ -7,7 +7,6 @@ void main() {
       min = myList[i];
     if(myList[i]>max)
       max=myList[i];
-
   }
   print('------  PROBLEM 1 ------');
   print('Minimum number is : $min');
